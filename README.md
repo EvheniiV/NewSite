@@ -10,7 +10,4 @@
 - хороший охранник
 - лучший антистресс
 
-И вот мое фото:
-
-<img src="https://drive.google.com/file/d/1H7vpRJz74YXA5V7KqKyyR1OdGo2rWBXD/view?usp=sharing" />
-
+[И вот мое фото]("https://drive.google.com/file/d/1H7vpRJz74YXA5V7KqKyyR1OdGo2rWBXD/view?usp=sharing")
